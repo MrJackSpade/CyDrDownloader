@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CyDrDownloader": {
+      "commandName": "Project",
+      "commandLineArgs": "https://cyberdrop.me/a/PVHbOTL6"
+    }
+  }
+}
