@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "thQIjPJjA1qTSXSM6lVnAdwjhacH3HpdemeQS0eZXyZ83BsBRNUFNwRgD3yALmzPznCx8gsrPyOJiz1xhFgqeA==",
+  "dgSpecHash": "HFv5eJUy2WfC0Vzm02nFmBPVpkOhCVBmhGMB6qyMo5fkeER2+73C5pGbS+OS1/eG/52Bbifs8kBFEgFcUuAhGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Loffr\\source\\repos\\CyDrDownloader\\CyDrDownloader\\CyDrDownloader.csproj",
+  "projectFilePath": "C:\\Users\\Loffr\\Documents\\GitHub\\CyDrDownloader\\CyDrDownloader\\CyDrDownloader.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Loffr\\.nuget\\packages\\penguin.extensions.string\\5.0.1-ta56xnt\\penguin.extensions.string.5.0.1-ta56xnt.nupkg.sha512",
     "C:\\Users\\Loffr\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
